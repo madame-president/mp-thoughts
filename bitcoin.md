@@ -1,7 +1,7 @@
 **The soundest form of money**
 
 *It's always been very clear in my head that money is a technology. I believe it's the most interesting technology to ever exist. 
-What other technology quantifies human productivity? In this case, "productivity" = time * energy expenditure.*
+What other technology quantifies human productivity? In this case, "productivity" == time * energy expenditure.*
 
 **Fallacy # 1 about money**
 
