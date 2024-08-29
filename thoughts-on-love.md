@@ -5,3 +5,5 @@
 *Perhaps love is less abstract than I thought. Or perhaps energy itself is just an abstraction, and love a manifestation of energy itself.*
 
 **Abstraction or not, it manifested into my physical reality. I felt it vividly in my world.**
+
+*Today I am free*
