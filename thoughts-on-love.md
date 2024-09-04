@@ -6,4 +6,8 @@
 
 **Abstraction or not, it manifested into my physical reality. I felt it vividly in my world.**
 
-*Today I am free*
+*Today I am free.*
+
+#### S.S.S.
+
+*Eres de corazon blando, de diferente textura al mio. Eres libre y todavia no lo sabes. Eres pura vida.* 
