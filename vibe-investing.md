@@ -19,3 +19,7 @@ By pinpointing and truly understanding my coding preferences, technical compromi
 I know I have a preference for camel case, modules by functionality, certain libraries over entire frameworks. I prefer sticking to the libraries I understand, even if that compromises speed (I am looking at you asyncio). I use the same API services, therefore, I know their documentation by heart. I am naturally curious, open to learn, and in that learning I end up arriving (most of the time) to the same conclusion: the basics work just fine.
 
 I won't deny there is the pleasant discovery once in a while: Digital Ocean over AWS, streamlit, WSL, sparrow wallet.
+
+In short: my coding sessions are predefined by a well-structured list of constraints (convention sheet), understanding of my own compromises, and taking simple elements from scalable systems (seperate config from code)^1.
+
+It got me thinking that I apply the same robotic-style
