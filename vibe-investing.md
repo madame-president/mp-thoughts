@@ -23,3 +23,9 @@ I won't deny there is the pleasant discovery once in a while: Digital Ocean over
 In short: my coding sessions are predefined by a well-structured list of constraints (convention sheet), understanding of my own compromises, and taking simple elements from scalable systems (seperate config from code)<sup>1</sup>.
 
 It got me thinking that I apply the same robotic-style
+
+## Appendix
+
+<sup>1</sup>: My workflows are faster by not hardcoding any secrets. It makes it easier to re-use functions and rotate my expired API keys.
+
+
