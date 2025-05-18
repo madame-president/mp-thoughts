@@ -24,6 +24,13 @@ In short: my coding sessions are predefined by a well-structured list of constra
 
 Anyways, vibe coding got me thinking about **vibe investing**.
 
+The acceptable "at-scale" investing strategy for an individual within my demographic group (as told my multiple Financial advisors) is:
+
+1. Diversification is king.
+2. Long-term purview.
+3. Moderate risk<sup>1</sup> is acceptable.
+4. Growth return projections similar to S&P 500.
+
 ## Appendix
 
 <sup>1</sup>: My workflows are faster by not hardcoding any secrets. It makes it easier to re-use functions and rotate my expired API keys.
