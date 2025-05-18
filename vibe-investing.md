@@ -28,7 +28,7 @@ The acceptable "at-scale" investing strategy for an individual within my demogra
 
 1. Diversification is king.
 2. Long-term purview.
-3. Moderate risk<sup>1</sup> is acceptable.
+3. Moderate risk<sup>2</sup> is acceptable.
 4. Growth return projections similar to S&P 500.
 
 I call this the "at-scale" investing strategy because it genuinly works for most retail investors and HNWIs.
