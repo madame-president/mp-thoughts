@@ -22,7 +22,7 @@ I won't deny there is the pleasant discovery once in a while: Digital Ocean over
 
 In short: my coding sessions are predefined by a well-structured list of constraints (convention sheet), understanding of my own compromises, and taking simple elements from scalable systems (seperate config from code)<sup>1</sup>.
 
-It got me thinking that I apply the same robotic-style
+Anyways, vibe coding got me thinking about **vibe investing**.
 
 ## Appendix
 
