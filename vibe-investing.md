@@ -16,3 +16,6 @@ I've been vibe coding for a year or so. I've gotten better at it and a typical v
 
 By pinpointing and truly understanding my coding preferences, technical compromises, programming needs and most importantly, my programming profile, I created my own version of vibe coding.
 
+I know I have a preference for camel case, modules by functionality, certain libraries over entire frameworks. I prefer sticking to the libraries I understand, even if that compromises speed (I am looking at you asyncio). I use the same API services, therefore, I know their documentation by heart. I am naturally curious, open to learn, and in that learning I end up arriving (most of the time) to the same conclusion: the basics work just fine.
+
+I won't deny there is the pleasant discovery once in a while: Digital Ocean over AWS, streamlit, WSL, sparrow wallet.
