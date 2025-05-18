@@ -20,6 +20,6 @@ I know I have a preference for camel case, modules by functionality, certain lib
 
 I won't deny there is the pleasant discovery once in a while: Digital Ocean over AWS, streamlit, WSL, sparrow wallet.
 
-In short: my coding sessions are predefined by a well-structured list of constraints (convention sheet), understanding of my own compromises, and taking simple elements from scalable systems (seperate config from code)^1.
+In short: my coding sessions are predefined by a well-structured list of constraints (convention sheet), understanding of my own compromises, and taking simple elements from scalable systems (seperate config from code)<sup>1</sup>.
 
 It got me thinking that I apply the same robotic-style
