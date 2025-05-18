@@ -31,6 +31,10 @@ The acceptable "at-scale" investing strategy for an individual within my demogra
 3. Moderate risk<sup>1</sup> is acceptable.
 4. Growth return projections similar to S&P 500.
 
+I call this the "at-scale" investing strategy because it genuinly works for most retail investors and HNWIs.
+
+
+
 ## Appendix
 
 <sup>1</sup>: My workflows are faster by not hardcoding any secrets. It makes it easier to re-use functions and rotate my expired API keys.
