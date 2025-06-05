@@ -48,9 +48,11 @@ Choose libraries based on actual need. Do not include if unused. If you want to 
 
 16. Include a README.md with minimal install/run instructions.
 
-## API Conventions when using Blockchair.com as provider
+## API Conventions for data providers
 
-When using Blockchair API as data providers:
+Approved data providers are blockchair.com and mempool.space.
+
+When using Blockchair API as data provider:
 
 17. Do not append API keys to headers, use URL parameters.
 
@@ -134,9 +136,22 @@ SAMPLE RESPONSE:
 The ?offset= section (offset):
 Offset can be used as a paginator, e.g., ?offset=10 returns the next 10 rows. context.offset takes the value of the set offset. The maximum value is 10000. If you need just the last page, it's easier and quicker to change the direction of the sorting to the opposite.
 
+When using mempool API as data provider:
+
+20. To gather address transactions:
+https://mempool.space/api/address/{address}/txs
+
+Returns up to 50 mempool transactions plus the first 25 confirmed transactions. You can request more confirmed transactions using an after_txid query param.
+
+22. To gather historical price:
+https://mempool.space/api/v1/historical-price?currency=EUR&timestamp=1500000000
+
+23. To gather live price:
+https://mempool.space/api/v1/prices
+
 ## Debug Log
 
-20. Add print statements categorized by [INFO] [DEBUG] and [ERROR] to display at all times what the script is currently doing. [INFO] tag can be used to diplay what function is running. For example, print("[INFO] Getting bitcoin live price from mempool"). [DEBUG] tag can be used to display status codes. For example, print("[DEBUG] Status code: {res.status_code}"). [ERROR] tag can be used at your discretion.
+24. Add print statements categorized by [INFO] [DEBUG] and [ERROR] to display at all times what the script is currently doing. [INFO] tag can be used to diplay what function is running. For example, print("[INFO] Getting bitcoin live price from mempool"). [DEBUG] tag can be used to display status codes. For example, print("[DEBUG] Status code: {res.status_code}"). [ERROR] tag can be used at your discretion.
 
 ## System
 
